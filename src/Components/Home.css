@@ -1,0 +1,10 @@
+body {
+    background-color: lightyellow;
+}
+.Home {
+    background-color: rgb(213, 233, 232);
+    color:black;
+    font-weight: bold;
+    padding: 20px;
+    margin-top: 7px;
+}

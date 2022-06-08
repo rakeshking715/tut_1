@@ -1,0 +1,17 @@
+body{
+    background-color: lightyellow;
+}
+.Form {
+    background-color: darkseagreen;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 35%;
+    margin-top: 10px;
+    margin-right: 35%;
+    padding: 20px;
+}
+.hii {
+    text-align: center;
+    color:goldenrod;
+}
